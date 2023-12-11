@@ -1,4 +1,4 @@
-use std::{fs};
+use std::fs;
 
 fn numbers(line: &str) -> Vec<i32> {
     let mut v: Vec<i32> = Vec::new();
